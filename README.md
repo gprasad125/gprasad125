@@ -2,8 +2,6 @@ Hi, I’m Gokul! I'm a Data Science student at the University of California at S
 
 I’m interested in sports statistics, data analysis, and political science. 
 
-I’m currently learning Python (incl. libraries like pandas and numpy) and R. 
+I'm proficient in Python, R, SQL, and platforms like Google Cloud Platform, Jupyter, and Data Studio. I have prior work experience in customer analytics and marketing. 
 
-How to reach me:
-- gokulprasad125@gmail.com  <--- email
-- www.linkedin.com/in/gokul-prasad/   <--- LinkedIn
+If you'd like to reach me, you can do so at my [email](mailto:gokulprasad125@gmail.com) or through my [LinkedIn](www.linkedin.com/in/gokul-prasad/)
