@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=gprasad125&style=flat)
+
 Hi, I’m Gokul! I'm a Data Science student at the University of California at San Diego. 
 
 I’m interested in sports statistics, data analysis, and political science. 
