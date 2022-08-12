@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=gprasad125&style=flat)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gprasad125)](https://github.com/anuraghazra/github-readme-stats)
 
 Hi, I’m Gokul! I'm a Data Science student at the University of California at San Diego. 
 
