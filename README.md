@@ -14,6 +14,10 @@
 
 ### Contact
 
-If you'd like to reach me, you can do so at my [email](mailto:gokulprasad125@gmail.com) or through my [LinkedIn](https://www.linkedin.com/in/gokul-prasad/)
+📧 [email](mailto:gokulprasad125@gmail.com)
+👔 [linkedin](https://www.linkedin.com/in/gokul-prasad/)
+💬 [discord](https://www.discordapp.com/users/156196603458355202)
+
+You can also checkout [my portfolio website](https://gokulprasad.netlify.app) for more info 
 
 ![](https://komarev.com/ghpvc/?username=gprasad125&style=flat)
