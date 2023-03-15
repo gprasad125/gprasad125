@@ -15,7 +15,9 @@
 ### Contact
 
 📧 [email](mailto:gokulprasad125@gmail.com)
+
 👔 [linkedin](https://www.linkedin.com/in/gokul-prasad/)
+
 💬 [discord](https://www.discordapp.com/users/156196603458355202)
 
 You can also checkout [my portfolio website](https://gokulprasad.netlify.app) for more info 
