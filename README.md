@@ -2,7 +2,7 @@
 
 ### About
 
-🧑‍🎓 I'm a senior undergraduate at UC San Diego, pursuing a B.S. in Data Science. 
+🧑‍🎓 I'm a recent graduate from UC San Diego, with a B.S. in Data Science. 
 
 🧠 I’m interested in LLMs, and applying them to everyday problems.  
 
