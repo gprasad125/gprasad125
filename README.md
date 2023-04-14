@@ -20,6 +20,6 @@
 
 💬 [discord](https://www.discordapp.com/users/156196603458355202)
 
-You can also checkout [my portfolio website](https://gokulprasad.netlify.app) for more info 
+You can also checkout [my portfolio website](https://gokulprasad.dev) for more info 
 
 ![](https://komarev.com/ghpvc/?username=gprasad125&style=flat)
