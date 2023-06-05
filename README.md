@@ -2,7 +2,9 @@
 
 ### About
 
-🧑‍🎓 I'm a recent graduate from UC San Diego, with a B.S. in Data Science. 
+🧰 I'm a Data Scientist, working @ [AI Camp](https://ai-camp.org).  
+
+🧑‍🎓 I graduated from UC San Diego in March 2023 with a B.S. in Data Science. 
 
 🧠 I’m interested in LLMs, and applying them to everyday problems.  
 
