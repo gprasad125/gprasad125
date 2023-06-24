@@ -25,7 +25,7 @@
 
 #### Frameworks 
 
-[![My Skills](https://skillicons.dev/icons?i=django,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,react,flask)](https://skillicons.dev)
 
 #### Database & Cloud
 
@@ -33,7 +33,7 @@
 
 #### Misc.
 
-[![My Skills](https://skillicons.dev/icons?i=docker,figma,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,tailwind,figma,github)](https://skillicons.dev)
 
 ## Contact
 
