@@ -42,5 +42,3 @@
 👔 [LinkedIn](https://www.linkedin.com/in/gokul-prasad/)
 
 💬 [Discord](https://www.discordapp.com/users/156196603458355202)
-
-You can also checkout [my portfolio website](https://gokulprasad.dev) for more info 
