@@ -4,16 +4,14 @@
 
 ## About
 
-👉 I'm a Data Scientist @ [AI Camp](https://ai-camp.org).  
+👉 I'm a Data Analyst @ [The New York Times](https://www.nytimes.com).  
 
 👉 I graduated from **UC San Diego** in March 2023 with a **B.S. in Data Science.** 
 
 ## Experience 
 
-👨‍🔬 @ AI Camp, I work in Large Language Model application development, data analysis, & back-end automation. 
-
-🗓️ I also have work experience with marketing analytics, sentiment analysis, & mentorship.
-
+👨‍🔬 Prev: Lead Data Scientist @ AI Camp Inc., Data Engineering Intern @ Filestack
+🗓️ I've worked in and around Generative-AI application development, marketing analytics, back-office automation, and product management. 
 
 ## Skills
 
