@@ -11,6 +11,7 @@
 ## Experience 
 
 👨‍🔬 Prev: Lead Data Scientist @ AI Camp Inc., Data Engineering Intern @ Filestack
+
 🗓️ I've worked in and around Generative-AI application development, marketing analytics, back-office automation, and product management. 
 
 ## Skills
